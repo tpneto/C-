@@ -1,0 +1,11 @@
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\bin\Debug\Midterm_Prep.exe.config
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\bin\Debug\Midterm_Prep.exe
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\bin\Debug\Midterm_Prep.pdb
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.Form1.resources
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.Properties.Resources.resources
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.exe
+C:\Users\Thiago\Desktop\LaSalle\3rd_TERM\MULT_TIER_APP\MidTerm Preparation\Midterm_Prep\Midterm_Prep\obj\Debug\Midterm_Prep.pdb
